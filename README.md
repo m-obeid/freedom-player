@@ -15,7 +15,7 @@ Libraries that were used also are:<br>
 - ActiveX VLC Plugin 2 (for playing YouTube videos thats the only I found)<br>
 - CefSharp.Winforms (for the freedom browser)<br>
 <br>
-# Contribute & Support
+# Contribute and Support
 Subscribe to me on YouTube (https://www.youtube.com/channel/UCMit3ZI9zmRNp-pQrOuHxCQ?sub_confirmation=1)<br>
 Or contribute! My mail is mobeid9999@gmail.com<br>
 <br>
